@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 17px 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#contact"><a href="file:///C:/Users/jcabo/Documents/BSINFOTECH1A_HCI101_MIDTERM%20PROJECT_EDRADA,%20YHESHA%20MAE/PROJECT/Contact.html">Contact</a></li>
+  <li><a href="#contact"><a href="file:///C:/Users/jcabo/Documents/BSINFOTECH1A_HCI101_MIDTERM%20PROJECT_EDRADA,%20YHESHA%20MAE/PROJECT/Product.html">Product</a></li>
+  <li><a href="#about"><a href="file:///C:/Users/jcabo/Documents/BSINFOTECH1A_HCI101_MIDTERM%20PROJECT_EDRADA,%20YHESHA%20MAE/PROJECT/About%20Us.html">About Us</a></li>
+  <li><a class="#home"><a href="file:///C:/Users/jcabo/Documents/BSINFOTECH1A_HCI101_MIDTERM%20PROJECT_EDRADA,%20YHESHA%20MAE/PROJECT/Caf%C3%A9%20du%20Croissant.html">Home</a></li>
+</ul>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Café du Croissant</title>
+<style type="text/css">h1{font-size:100px;}</style>
+</head>
+<body>
+<style type="text/css">p{font-size:23px;}</style>
+<style>
+body {
+  background-image: url('b.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
+<h1 body style="color:white;"><b>Café du Croissant</h1></b
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+</style>
+</head>
+<body>
+
+<p class="p3" body style="color:white;"><b>Coffee - The most important meal of the day.</p></b>
+
+</body>
+</html>
+
+
